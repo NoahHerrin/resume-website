@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Resume</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-12">
+        <header>
+          <h1>Noah Herrin</h1 <p>214 NE 91st Seattle, Wa 98115 </br>
+          (561) 279-5197 - noahherrin@gmail.com</p>
+        </header>
+        <article class="professional-summary">
+          <h2><span>Professional Summary</span></h2>
+          <p>Sophmore at Western Washington University planning on majoring in computer science. Passionate about working with technologies and organizations that have the potential to improve lives</p>
+        </article>
+      </div>
+      <div class="row">
+        <div class="col-sm-2">
+          <section class="date-col">
+
+          </section>
+        </div>
+        <div class="col-sm-10">
+          <article class="skills">
+            <h2><span>Skills</span></h2>
+
+            <div class="skills">
+              <section class="right-col">
+                <ul>
+                  <li>Public speaking</li>
+                  <li>Works well with children</li>
+                  <li>Project Management</li>
+                </ul>
+              </section>
+              <section class="left-col">
+                <ul>
+                  <li>Proficient in Java, Python, Html, CSS, Javascript, and PHP</li>
+                  <li>Motivated to learn new skills</li>
+                </ul>
+
+              </section>
+            </div>
+
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <article class="work-history">
+    <h2><span id="hmm">Education</span></h2>
+    <section class="cwk-instructor">
+
+      <section class="date-col">
+        <p>6/2018 to Present</p>
+      </section>
+      <section class="work-info">
+        <p><b>Instructor</b></p>
+        <p><b>Coding With Kids</b> - Seattle, Wa</p>
+        <ul>
+          <li>Taught full and half day summer classes for Java, Python, and Scratch</li>
+          <li>Taught online Python, Scratch, HTML, CSS, and Javascript classes.</li>
+          <li>Recorded notes about each student and their reaction to the curriculum to indentify their unique learning style.</li>
+          <li>Reviewed student Progress with Parents</li>
+        </ul>
+      </section>
+    </section>
+
+    <section class="club-president">
+      <section class="date-col">
+        <p>1/2018 to Present</p>
+      </section>
+      <section class="work-info">
+        <p><b>Club President</b></p>
+        <p><b>Be The Match on Campus</b> - Bellingham, Wa</p>
+        <ul>
+          <li>Facilitated the partnershp between Be The Match on Campus Club and public relations majors in order to improve the club's marketing strategy.</li>
+          <li>Responsible for the creative design for the screening of the film Mixed Match at Western Washington University</li>
+          <li>Planned and assisted with fundraising events.</li>
+        </ul>
+      </section>
+    </section>
+
+
+    <section class="club-vice-president">
+      <section class="date-col">
+        <p>9/2017 to 1/2018</p>
+      </section>
+      <section class="work-info">
+        <p><b>Club Vice President</b></p>
+        <p><b>Be The Match on Campus</b> - Bellingham, Wa</p>
+        <ul>
+          <li>Co-founder of Be The Match on Campus club at Western Washington University</li>
+          <li>Assisted in marketing campaing that led to our club being recognized for recruiting the most volunteers during the WWU's club showcase for winter 2018</li>
+          <li>Worked with Love Your Melon club to run several successful bone marrow registry Events.</li>
+          <li>Assisted president with daily functions and the planning of events.</li>
+        </ul>
+      </section>
+    </section>
+
+    <section class="student-ambassador">
+      <section class="date-col">
+        <p>5/2017 to 9/2017</p>
+      </section>
+      <section class="work-info">
+        <p><b>Student Ambassador</b></p>
+        <p><b>Be The Match</b> - Seattle, Wa</p>
+        <ul>
+          <li>Organized first bone marrow registry drive at a high school in seattle</li>
+          <li>Assisted with running bone marrow registry drives around seattle and facilitated the process of teaching others how to run their own registry drives.</li>
+        </ul>
+      </section>
+    </section>
+  </article>
+
+  <article class="education">
+    <h2><span>Education</span></h2>
+    <section class="date-col">
+      <p>2021</p>
+    </section>
+    <section class="college-degree">
+      <p><b>Bachelor of Science: Computer Science (Ongoing)</b>ssss</p>
+      <p><b>Western Washington University</b> - Bellingham Washignton</p>
+    </section>
+  </article>
+  <article class="course-work">
+    <h2><span>Relavent Course Work</span></h2>
+    <section class="date-col">
+    </section>
+    <section class="courses">
+      <section class="nathan-hale">
+        <p><b>Nathan Hale High School</b><br>
+          AP Computer science<br>
+          Projects in Computer Science<br>
+        </p>
+      </section>
+      <section class="north-seattle-college">
+        <p><b>North Seattle College</b><br>
+          CSC 110 Intro to Computer Programming<br>
+          CSC 142 Computer Programming 1<br>
+        </p>
+
+      </section>
+      <section class="western-washington-university">
+        <p><b>Western Washington University</b><br>
+          CSCI 145 Computer Science Computer Programming & Linear Data-Structures<br>
+          CSCI 102 Computer Mediated Communications<br>
+          COMM 101 Fundementials of Speech<br>
+          CSCI 241 Data Structures<br>
+        </p>
+
+      </section>
+    </section>
+  </article>
+</body>
+
+</html>

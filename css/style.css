@@ -1,0 +1,96 @@
+body {
+  background-color: #14213d;
+  color: #ced4da;
+  font-family: 'Roboto', sans-serif;
+}
+
+.important {
+  color: #06d6a0;
+  display: inline-block;
+  margin-right: .1em;
+  
+}
+
+ul {
+  list-style: none;
+  margin-top: 10vh;
+}
+li {
+  margin-bottom: 1em;
+}
+
+#navigation {
+  display: block;
+  text-align: left;
+  position: fixed;
+  height: 100vh;
+  width: 20vw;
+  font-size: 1.2em;
+  margin-left: 10vw;
+  z-index:1;
+
+}
+
+main {
+  width: 80vw;
+  position: relative;
+  font-size: 1.2em;
+  text-align: center;;
+}
+
+/* creates paralax effect with each article */
+article {
+  height: 100vh;
+  padding-top: 8vh;
+  display: block;
+  padding-left: 30vw;
+
+}
+
+header {
+  color: #06d6a0;
+  font-size: 1.5em;
+  text-align: left;
+  border-bottom: .1em solid #06d6a0;
+  background-color: #14213d;
+  
+  width: 100vw;
+  height: 5vh;
+  padding-left: 1.5vw;
+  padding-top: 1vh;
+  
+  display: block;
+  position: fixed;
+  
+  
+  
+}
+a {
+  color: #06d6a0;
+}
+
+a:hover {
+  color:#06d6a0;
+}
+
+.skill {
+  display: inline;
+  border: .2em solid #06d6a0;
+  padding: .1em;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#Education {
+  text-align: left;
+}
+
+#coursework {
+  padding-left: 2vw;
+}
+#Experience {
+  text-align: left;
+}
+
+#AboutMe {
+  padding-top: 10vh;
+}
